@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41180'
     url: http://www.gutenberg.org/2009/agents/41180
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41432#The-Tale-of-a-Field-Hospital
 gutenberg_issued: '2012-11-21'
 gutenberg_type: Text
 identifiers:

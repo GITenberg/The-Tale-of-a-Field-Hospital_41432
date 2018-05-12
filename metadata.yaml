@@ -1,0 +1,32 @@
+_repo: The-Tale-of-a-Field-Hospital_41432
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41432-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Treves, Frederick
+    aliases:
+    - Treves, Frederick, Sir
+    - Trevis, Frederick
+    birthdate: 1853
+    deathdate: 1923
+    gutenberg_agent_id: '41180'
+    url: http://www.gutenberg.org/2009/agents/41180
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902 -- Hospitals, charities, etc.'
+- !lcsh 'Medicine, Military'
+- !lcsh 'South African War, 1899-1902 -- Medical care'
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+title: The Tale of a Field Hospital
+url: http://www.gutenberg.org/ebooks/41432
